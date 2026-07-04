@@ -135,7 +135,7 @@ The Power BI dashboard provides interactive analysis on:
 ---
 
 ## 📊 Dashboard Preview
-![HR Attrition Dashboard](HR-Attrition-Screenshot.PNG)
+<img src="HR-Attrition-Screenshot.png" width="1000">
 
 ## 📚 Dataset
 
